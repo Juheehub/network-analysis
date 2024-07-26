@@ -70,6 +70,8 @@ teacher_network = nx.from_pandas_adjacency(teacher_friends, create_using=nx.DiGr
 ::: panel-tabset
 ## Context
 
+\~ editing
+
 ::: columns
 ::: {.column width="70%"}
 Revisiting early work in the field of sociometry, this study by @pittinsky2008behavioral **assesses the level of agreement between teacher perceptions and student reports of classroom friendships** among middle school students.
